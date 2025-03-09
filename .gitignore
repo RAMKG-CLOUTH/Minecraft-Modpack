@@ -1,0 +1,29 @@
+# Игнорируем логи, отчёты, кеши
+logs/
+crash-reports/
+saves/
+resourcepacks/
+shaderpacks/
+screenshots/
+
+# Конфигурация лаунчера
+options.txt
+servers.dat
+
+# Временные файлы
+usercache.json
+*.tmp
+*.lock
+
+# CurseForge или другие лаунчеры
+manifest.json
+modlist.html
+
+# Файлы IDE (если используешь)
+.idea/
+*.iml
+.vscode/
+
+# MacOS и Windows системные файлы
+.DS_Store
+Thumbs.db
